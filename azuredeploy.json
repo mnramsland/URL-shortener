@@ -10,7 +10,7 @@
     },
     "fallbackUrl": {
       "type": "string",
-      "defaultValue": "https://blog.jeremylikness.com/?utm_source=jelikness&utm_medium=github&utm_campaign=url_shortener",
+      "defaultValue": "https://www.vg.no",
       "metadata": {
         "description": "The URL to fallback to if the short URL is invalid or not found"
       }
